@@ -88,12 +88,12 @@ In bot settings.
 Contributions are welcome.
 
 ## Contact
-You can contact me [@odysseusmax](https://tx.me/odysseusmax).
+You can contact me [@NEW_RELEASED_HD](https://tx.me/NEW_RELEASED_HD).
 
 ## Thanks
-Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
+Thanks to [Dan](https://github.com "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
 
-Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
+Thanks to [Tulir Asokan](https://github.com/") for his [TgFileStream](https://github.com/ "TgFileStream") Bot.
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
